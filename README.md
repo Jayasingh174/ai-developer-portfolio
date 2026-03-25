@@ -2,7 +2,7 @@
 
 Welcome to the source code for my AI Developer portfolio! I am an aspiring AI Engineer specializing in building production-ready Artificial Intelligence systems, Retrieval-Augmented Generation (RAG) pipelines, and intelligent data extraction tools.
 
-🌐 **Live Portfolio:** [Insert your Render URL here, e.g., https://jaya-ai-portfolio.onrender.com]
+🌐 **Live Portfolio:** [ https://jaya-ai-portfolio.onrender.com]
 
 ## 🧠 Featured AI Projects
 
@@ -21,12 +21,3 @@ This specific portfolio website was built from scratch to demonstrate backend pr
 * **Backend:** Python, FastAPI, Uvicorn
 * **Frontend:** HTML5, Tailwind CSS, Lucide Icons
 * **Deployment:** Render
-
-## 🛠️ How to Run Locally
-
-If you would like to run this portfolio server on your own machine:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/Jayasingh174/ai-developer-portfolio.git](https://github.com/Jayasingh174/ai-developer-portfolio.git)
-   cd ai-developer-portfolio
